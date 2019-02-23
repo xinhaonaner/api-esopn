@@ -1,0 +1,20 @@
+{
+  "name": "xinhaonaner/api-esopen",
+  "keywords": ["es", "api"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "fzp",
+      "email": "Fzhengpei@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Es\\": "src/"
+    },
+    "files": [
+      "src/helpers.php"
+    ]
+  }
+}
